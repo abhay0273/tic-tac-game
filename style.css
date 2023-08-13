@@ -47,7 +47,7 @@ body{
 .cross::before, .cross::after{
     content: "";
     position: absolute;
-    background: red;
+    background: rgb(76, 231, 10);
 }
 
 .cross::before {
